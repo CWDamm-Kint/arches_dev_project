@@ -1,0 +1,10 @@
+*.pyc
+*.log
+dev_project/logs
+dev_project/export_deliverables
+dev_project/cantaloupe/*
+dev_project/media/packages
+dev_project/uploadedfiles/*
+dev_project/settings_local.py
+.vscode/
+CACHE

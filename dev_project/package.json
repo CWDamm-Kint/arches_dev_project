@@ -1,0 +1,6 @@
+{
+    "name": "dev_project",
+    "dependencies": {
+        "arches": "archesproject/arches#stable/6.2.9"
+    }
+}
